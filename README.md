@@ -28,9 +28,12 @@ Default:
 
 Dev dependencies:
 
-- [mocha](https://www.google.com)
-- [nodemon](https://www.google.com)
-- [supertest](https://www.google.com)
+- [mocha](https://github.com/mochajs/mocha)
+  - javascript test framework
+- [nodemon](https://github.com/remy/nodemon)
+  - server hot reload
+- [supertest](https://github.com/visionmedia/supertest)
+  - node testing library
 
 ### Project structure
 
