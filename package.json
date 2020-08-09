@@ -1,7 +1,7 @@
 {
-  "name": "express-monk-starter",
+  "name": "express-mongodb-starter",
   "version": "1.0.0",
-  "description": "A starter express api using monk to communicate with mongodb",
+  "description": "An express api starter using monk to communicate with mongodb",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
